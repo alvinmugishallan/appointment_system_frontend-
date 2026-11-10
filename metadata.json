@@ -1,0 +1,6 @@
+{
+  "name": "MetroCare Hospital Appointment System",
+  "description": "Hospital appointment scheduling, patient registry, doctor availability, and payment ledger system matching the MySQL clinical database schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
